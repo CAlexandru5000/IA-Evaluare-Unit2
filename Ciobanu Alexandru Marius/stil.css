@@ -1,0 +1,52 @@
+body{
+	background-color:yellow;
+}
+.sec1{
+	background-color:lightblue;
+}
+.sec1 table, th, td{
+	border: 1px solid black;
+	color:brown;
+	margin-left:auto;
+	margin-right:auto;
+}
+.sec1 p{
+	color:red;
+	font-size: 150%;
+}
+.sec2{
+	background-color:lightgreen;
+}
+.sec2 p1{
+	color:blue;
+	font-size: 150%;
+}
+.sec2 p{
+	font-size:large;
+	color:purple;
+	text-align:center;
+
+}
+.sec2 ol{
+	color:purple;
+	font-size:large;
+	list-style:inside;
+	text-align:center;
+}
+.sec2 img{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.sec3{
+	background-color:gray;
+}
+.sec3 p{
+	color:yellow;
+	font-size:150%;
+}
+.aranjare{
+	float:left;
+	padding:5px;
+	border-radius:8px;
+}
